@@ -1,0 +1,28 @@
+[ {
+  "correntista" : {
+    "nome" : "Mario",
+    "cognome" : "Rossi"
+  },
+  "listaMovimenti" : [ {
+    "causale" : "PagoBancomat",
+    "timestamp" : "25-11-2018 18:27:42"
+  }, {
+    "causale" : "PagoBancomat",
+    "timestamp" : "25-11-2018 18:27:42"
+  }, {
+    "causale" : "PagoBancomat",
+    "timestamp" : "25-11-2018 18:27:42"
+  } ]
+}, {
+  "correntista" : {
+    "nome" : "Michele",
+    "cognome" : "Bianchi"
+  },
+  "listaMovimenti" : [ {
+    "causale" : "F24",
+    "timestamp" : "25-11-2018 18:27:42"
+  }, {
+    "causale" : "Bonifico",
+    "timestamp" : "25-11-2018 18:27:42"
+  } ]
+} ]
